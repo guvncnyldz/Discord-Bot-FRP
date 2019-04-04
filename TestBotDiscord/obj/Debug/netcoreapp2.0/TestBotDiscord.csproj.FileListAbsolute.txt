@@ -1,0 +1,11 @@
+C:\Users\guvnc\source\repos\TestBotDiscord\TestBotDiscord\bin\Debug\netcoreapp2.0\TestBotDiscord.deps.json
+C:\Users\guvnc\source\repos\TestBotDiscord\TestBotDiscord\bin\Debug\netcoreapp2.0\TestBotDiscord.runtimeconfig.json
+C:\Users\guvnc\source\repos\TestBotDiscord\TestBotDiscord\bin\Debug\netcoreapp2.0\TestBotDiscord.runtimeconfig.dev.json
+C:\Users\guvnc\source\repos\TestBotDiscord\TestBotDiscord\bin\Debug\netcoreapp2.0\TestBotDiscord.dll
+C:\Users\guvnc\source\repos\TestBotDiscord\TestBotDiscord\obj\Debug\netcoreapp2.0\TestBotDiscord.csprojAssemblyReference.cache
+C:\Users\guvnc\source\repos\TestBotDiscord\TestBotDiscord\obj\Debug\netcoreapp2.0\TestBotDiscord.csproj.CoreCompileInputs.cache
+C:\Users\guvnc\source\repos\TestBotDiscord\TestBotDiscord\obj\Debug\netcoreapp2.0\TestBotDiscord.AssemblyInfoInputs.cache
+C:\Users\guvnc\source\repos\TestBotDiscord\TestBotDiscord\obj\Debug\netcoreapp2.0\TestBotDiscord.AssemblyInfo.cs
+C:\Users\guvnc\source\repos\TestBotDiscord\TestBotDiscord\bin\Debug\netcoreapp2.0\TestBotDiscord.pdb
+C:\Users\guvnc\source\repos\TestBotDiscord\TestBotDiscord\obj\Debug\netcoreapp2.0\TestBotDiscord.dll
+C:\Users\guvnc\source\repos\TestBotDiscord\TestBotDiscord\obj\Debug\netcoreapp2.0\TestBotDiscord.pdb
